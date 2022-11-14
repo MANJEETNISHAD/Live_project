@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('BACKGROUND.jpg');
+    display: flex;
+    justify-content: center;
+}
+.box{
+    width: 600px;
+    height: 600px;
+    border:2px solid #f7e1bf;
+    border-radius: 50%;
+    margin: auto;
+    text-align: center;
+    background-color: #f7e1bf;
+}
+img{
+position: relative;
+top: 49px;
+left: 1px;
+}
+.para1{
+    margin-top: 65px;
+    font-size: 25px;
+    font-style:italic;
+}
+.para2{
+    color:#229954;
+    font-size: 32px;
+}
+.garden{
+    color:#229954;
+    font-size: 105px;
+}
+.para3{
+    margin-top: 20px;
+    font-size:20px;
+    line-height: 30px;   
+}
